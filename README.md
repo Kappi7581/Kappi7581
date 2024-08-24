@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://discord.gg/vjk7XAHaQf" >
-   <img src="https://cdn.discordapp.com/attachments/1274785938823975042/1276063695453290546/Screenshot_20240822_092110_Discord.jpg?ex=66c82a6d&is=66c6d8ed&hm=de47848e070e8dbe1faa5eb96cd144cb754e4bb19d04dc3abe0a1e5fcbac2207&"  />
+   <img src="https://cdn.discordapp.com/banners/1272964504657068197/a3acf6964027ab0ae74280212da62196.webp?size=2048"  />
   </a>
 </div>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
