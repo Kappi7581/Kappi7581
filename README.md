@@ -3,7 +3,7 @@
    <img src="https://cdn.discordapp.com/banners/1272964504657068197/a3acf6964027ab0ae74280212da62196.webp?size=2048"  />
   </a>
 </div>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center">~ 🖤 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🖤 ~</h1>
 <img src="./kappi7581.gif" width="10000">
 
 # 💫 About Me: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
