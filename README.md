@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://discord.gg/vjk7XAHaQf" >
-   <img src="https://cdn.discordapp.com/banners/1272964504657068197/a3acf6964027ab0ae74280212da62196.webp?size=2048"  />
+   <img src="https://cdn.discordapp.com/banners/1272964504657068197/804c0b1d32b643d6cfeeee39d3de51f1.webp?size=2048"  />
   </a>
 </div>
 <h1 align="center">~ 🖤 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🖤 ~</h1>
